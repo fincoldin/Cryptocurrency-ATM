@@ -8,6 +8,7 @@ LIDEIR VIANA JÚNIOR(ORIENTADOR)
 
 # Cryptocurrency-ATM
 Uma parte de um todo.
+
 1- JUSTIFICATIVA
   Este projeto tem como justificativa a esperada demanda por novos meios de transacionar Bitcoin.
 
