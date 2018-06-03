@@ -1,4 +1,4 @@
-Não posso ficar um dia sem entrar qui senão não sai!
+
 PUCMINAS POÇOS DE CALDAS
 ENGENHARIA ELÉTRICA
 
