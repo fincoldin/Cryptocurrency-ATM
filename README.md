@@ -30,7 +30,7 @@ Uma parte de um todo.
    2.2.2- segurança para executar transferências.
    2.2.3- praticidade para o usuários em massa.
    2.2.4- interconexão casada com o ATM, tornando-a um facilitador para a construção do ATM.
-   2.2.5- exclusividade no design capaz de intimidar reproduções.
+   2.2.5- exclusividade no design, capaz de intimidar reproduções.
 
  
 3- OBJETIVO OPERACIONAL.
