@@ -43,18 +43,23 @@ Uma parte de um todo.
    
   3.2- Permitir que a rede de ATM se espalhe descentralizadamente.
   
-
-
-Base teórica que justifica a demana crescente:
+  
+  3.3- Operar com descrição e anonimato.
+  
+   
+   
+   
+   **Base teórica que justifica a demana crescente:
 
 Econômica:
+
 1 Moeda forte: moeda não inflacionária, descentralizada, rápida & fácil transferência e sem fronteiras.
-2 Livre mercado: mercado ordenado naturalmente mas desregulamentado, sem interferência de organizações burocráticas.
+2 Livre mercado: mercado ordenado naturalmente, desregulamentado e sem interferência de organizações burocráticas.
 3 Mão invisível: mercado se auto-regula.
 4 Geração de riqueza: países com maior liberdade econômica são mais ricos.
 
 Filosófica:
-Direito a:
+
 1 Liberdade.
 2 Propriedade.
 3 E busca de felicidade.
